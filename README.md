@@ -6,3 +6,7 @@ In graph theory, a vertex cover of a graph is a set of vertices that includes at
 The vertex cover *V'* of an undirected graph *G=(V,E)* is a subset of *V* such that *uv in E -> u in V'* v *v in V'*
 
 The mimimum vertex cover is the smallest vertex cover possible.
+
+In Dahiya et al. (ICMIRA 2013) an algorithm is proposed and tested on example cases. We have modified this algorithm and improved the results for two example cases. 
+
+Refer to report.pdf for more details.
